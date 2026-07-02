@@ -17,4 +17,4 @@ Practice questions and solutions using real-world datasets.
 - [ ] Data visualisation
 
 ### Tools:
-Python | Pandas | NumPy | Matplotlib | Seaborn | Jupyter Notebook | Google Collab 
+Python | Pandas | NumPy | Matplotlib | Seaborn | Jupyter Notebook | Google Colab 
