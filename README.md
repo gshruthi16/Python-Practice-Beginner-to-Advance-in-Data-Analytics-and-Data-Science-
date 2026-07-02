@@ -8,7 +8,7 @@ Practice questions and solutions using real-world datasets.
 - More coming soon...
 
 ### Topics covered:
-- [ ] Python basics (input/output, variables)
+- [ ] Python basics (input/output, variables, keywords)
 - [ ] Data structures (lists, tuples, dictionaries)
 - [ ] Loops & conditionals
 - [ ] Functions
