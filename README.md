@@ -8,13 +8,14 @@ Practice questions and solutions using real-world datasets.
 - More coming soon...
 
 ### Topics covered:
-- [ ] Python basics (input/output, variables, keywords)
-- [ ] Data structures (lists, tuples, dictionaries)
-- [ ] Loops & conditionals
+- [x] Python basics — input/output, variables, data types, keywords
+- [ ] Operators
+- [ ] Conditional statements & loops
 - [ ] Functions
+- [ ] Lists, tuples, dictionaries
 - [ ] Pandas & NumPy
 - [ ] EDA
-- [ ] Data visualisation
+- [ ] Data visualisation (Matplotlib & Seaborn)
 
 ### Tools:
 Python | Pandas | NumPy | Matplotlib | Seaborn | Jupyter Notebook | Google Colab 
